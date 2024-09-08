@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+P001,Laptop,Electronics,500
+P002,Sofa,Furniture,300
+P003,T-Shirt,Clothing,20
+P004,Refrigerator,Electronics,600
+P005,Table,Furniture,150
+P006,Shoes,Clothing,50
+P007,Book,Books,10
+P008,Smartphone,Electronics,700
+P009,Wardrobe,Furniture,400
+P010,Jacket,Clothing,100
